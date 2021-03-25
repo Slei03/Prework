@@ -45,6 +45,7 @@ Here's a walkthrough of implemented user stories:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 - [https://javascript.info/settimeout-setinterval](https://javascript.info/settimeout-setinterval)
+    - I used the setTimeOut function so that the countdown doesn't start until the whole pattern sequence has been played for the user to see.
 - [https://www.w3schools.com/jsref/met_win_clearinterval.asp](https://www.w3schools.com/jsref/met_win_clearinterval.asp)
 - [https://www.w3schools.com/jsref/met_win_setinterval.asp](https://www.w3schools.com/jsref/met_win_setinterval.asp)
 
